@@ -35,9 +35,7 @@ Proyek ini dibangun menggunakan serangkaian teknologi modern untuk memastikan ko
 
 ## 🤝 Kontak & Informasi
 
-Dikembangkan oleh **Wakdoyok**.
+Dikembangkan oleh **Widisa Adi Kumara**.
 
 Proyek ini merupakan representasi dari dedikasi saya terhadap kualitas kode dan desain. Saya terbuka untuk diskusi mengenai peluang kolaborasi profesional atau pengembangan proyek lebih lanjut.
 
----
-*© 2025 Wahri Furniture. Hak Cipta Dilindungi.*
