@@ -1,12 +1,11 @@
-# Wahri Furniture
-
-**Wahri Furniture** adalah sebuah portofolio web modern yang dirancang untuk menampilkan implementasi desain antarmuka pengguna (UI) yang elegan dan fungsional. Proyek ini dikembangkan dengan fokus pada estetika minimalis, interaksi pengguna yang halus, dan performa aplikasi yang optimal, mendemonstrasikan keahlian dalam pengembangan *frontend* terkini.
+PREVIEW WEBSITE
+[wahri-furniture.vercel.app](https://wahri-furniture.vercel.app/)
 
 ![Pratinjau Proyek 1](/public/images/preview-github.png)
 ![Pratinjau Proyek 2](/public/images/preview-github2.png)
 ![Pratinjau Proyek 3](/public/images/preview-github3.png)
 
-## 🚀 Ikhtisar Teknologi
+## 🚀 Framework yang dipakai
 
 Proyek ini dibangun menggunakan serangkaian teknologi modern untuk memastikan kode yang dapat dipelihara (*maintainable*), berskala besar (*scalable*), dan memiliki performa tinggi:
 
@@ -16,27 +15,6 @@ Proyek ini dibangun menggunakan serangkaian teknologi modern untuk memastikan ko
 *   **[Framer Motion](https://www.framer.com/motion/)**: Pustaka animasi deklaratif untuk menciptakan transisi elemen yang kompleks dan menarik.
 *   **[GSAP](https://gsap.com/)**: *GreenSock Animation Platform* digunakan untuk animasi berbasis *scroll* yang presisi dan berkinerja tinggi.
 *   **[Lucide React](https://lucide.dev/)**: Kumpulan ikon SVG yang ringan dan mudah disesuaikan.
-
-
-1.  **Salin Repositori (Clone)**
-    ```bash
-    git clone https://github.com/usernameanda/wahri-furniture.git
-    cd wahri-furniture
-    ```
-
-2.  **Instalasi Dependensi**
-    Pastikan Node.js sudah terinstal, lalu jalankan:
-    ```bash
-    npm install
-    ```
-
-3.  **Jalankan Server Pengembangan**
-    ```bash
-    npm run dev
-    ```
-
-4.  **Akses Aplikasi**
-    Buka peramban (browser) Anda dan kunjungi [http://localhost:3000](http://localhost:3000).
 
 ## 📂 Struktur Proyek
 
@@ -56,9 +34,7 @@ Proyek ini dibangun menggunakan serangkaian teknologi modern untuk memastikan ko
 
 ## 🤝 Kontak & Informasi
 
-Dikembangkan oleh **Wakdoyok**.
+Dikembangkan oleh **Widisa Adi Kumara**.
 
 Proyek ini merupakan representasi dari dedikasi saya terhadap kualitas kode dan desain. Saya terbuka untuk diskusi mengenai peluang kolaborasi profesional atau pengembangan proyek lebih lanjut.
 
----
-*© 2025 Wahri Furniture. Hak Cipta Dilindungi.*
