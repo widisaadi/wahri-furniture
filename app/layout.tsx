@@ -16,8 +16,8 @@ const playfairDisplay = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Wahri Furniture - Ginger Chair",
-  description: "Ginger Chair - Wahri Furniture",
+  title: "Wahri Furniture",
+  description: "Modern Minimalist Furniture Portfolio",
 };
 
 export default function RootLayout({
