@@ -1,6 +1,5 @@
-# Wahri Furniture
-
-**Wahri Furniture** adalah sebuah portofolio web modern yang dirancang untuk menampilkan implementasi desain antarmuka pengguna (UI) yang elegan dan fungsional. Proyek ini dikembangkan dengan fokus pada estetika minimalis, interaksi pengguna yang halus, dan performa aplikasi yang optimal, mendemonstrasikan keahlian dalam pengembangan *frontend* terkini.
+PREVIEW WEBSITE
+wahri-furniture.vercel.app
 
 ![Pratinjau Proyek 1](/public/images/preview-github.png)
 ![Pratinjau Proyek 2](/public/images/preview-github2.png)
