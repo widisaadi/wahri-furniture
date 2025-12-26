@@ -1,0 +1,74 @@
+# Wahri Furniture
+
+**Wahri Furniture** adalah sebuah portofolio web modern yang dirancang untuk menampilkan implementasi desain antarmuka pengguna (UI) yang elegan dan fungsional. Proyek ini dikembangkan dengan fokus pada estetika minimalis, interaksi pengguna yang halus, dan performa aplikasi yang optimal, mendemonstrasikan keahlian dalam pengembangan *frontend* terkini.
+
+![Pratinjau Proyek](/public/images/chair-main.png)
+*(Catatan: Gambar pratinjau aplikasi)*
+
+## 🚀 Ikhtisar Teknologi
+
+Proyek ini dibangun menggunakan serangkaian teknologi modern untuk memastikan kode yang dapat dipelihara (*maintainable*), berskala besar (*scalable*), dan memiliki performa tinggi:
+
+*   **[Next.js 15](https://nextjs.org/)**: Kerangka kerja React utama menggunakan arsitektur *App Router* untuk *routing* dan optimasi sisi server.
+*   **[TypeScript](https://www.typescriptlang.org/)**: Digunakan untuk pengetikan statis yang kuat, meningkatkan keamanan kode dan produktivitas pengembangan.
+*   **[Tailwind CSS](https://tailwindcss.com/)**: Kerangka kerja CSS *utility-first* untuk styling yang cepat, responsif, dan konsisten.
+*   **[Framer Motion](https://www.framer.com/motion/)**: Pustaka animasi deklaratif untuk menciptakan transisi elemen yang kompleks dan menarik.
+*   **[GSAP](https://gsap.com/)**: *GreenSock Animation Platform* digunakan untuk animasi berbasis *scroll* yang presisi dan berkinerja tinggi.
+*   **[Lucide React](https://lucide.dev/)**: Kumpulan ikon SVG yang ringan dan mudah disesuaikan.
+
+## ✨ Fitur Unggulan
+
+*   **Antarmuka Pengguna Imersif**: Halaman utama (Hero Section) yang menampilkan animasi bertahap dan efek visual yang menarik perhatian.
+*   **Manajemen State Global**: Implementasi fitur Keranjang Belanja (*Shopping Cart*) yang fungsional menggunakan **React Context API**, memungkinkan pengelolaan data secara *real-time* di seluruh aplikasi.
+*   **Desain Responsif Adaptif**: Tata letak yang menyesuaikan diri secara sempurna pada berbagai ukuran perangkat, dari ponsel hingga monitor desktop.
+*   **Katalog Interaktif**: Tampilan produk yang dinamis dengan efek *hover* dan transisi yang halus.
+*   **Tipografi Editorial**: Penggunaan kombinasi fon *DM Sans* dan *Playfair Display* untuk menciptakan nuansa desain yang profesional dan elegan.
+
+## 🛠️ Panduan Instalasi
+
+Berikut adalah langkah-langkah untuk menjalankan proyek ini di lingkungan lokal Anda:
+
+1.  **Salin Repositori (Clone)**
+    ```bash
+    git clone https://github.com/usernameanda/wahri-furniture.git
+    cd wahri-furniture
+    ```
+
+2.  **Instalasi Dependensi**
+    Pastikan Node.js sudah terinstal, lalu jalankan:
+    ```bash
+    npm install
+    ```
+
+3.  **Jalankan Server Pengembangan**
+    ```bash
+    npm run dev
+    ```
+
+4.  **Akses Aplikasi**
+    Buka peramban (browser) Anda dan kunjungi [http://localhost:3000](http://localhost:3000).
+
+## 📂 Struktur Proyek
+
+```bash
+.
+├── app/                  # Direktori utama Next.js (App Router)
+│   ├── about/            # Halaman Tentang Kami
+│   ├── blog/             # Halaman Blog & Artikel
+│   ├── furniture/        # Katalog & Detail Produk
+│   └── page.tsx          # Halaman Beranda
+├── src/
+│   ├── components/       # Komponen UI modular (Navbar, Hero, dll.)
+│   └── context/          # Manajemen State (CartContext)
+├── public/               # Aset statis (Gambar, Ikon)
+└── ...
+```
+
+## 🤝 Kontak & Informasi
+
+Dikembangkan oleh **Wakdoyok**.
+
+Proyek ini merupakan representasi dari dedikasi saya terhadap kualitas kode dan desain. Saya terbuka untuk diskusi mengenai peluang kolaborasi profesional atau pengembangan proyek lebih lanjut.
+
+---
+*© 2025 Wahri Furniture. Hak Cipta Dilindungi.*
