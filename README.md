@@ -2,8 +2,9 @@
 
 **Wahri Furniture** adalah sebuah portofolio web modern yang dirancang untuk menampilkan implementasi desain antarmuka pengguna (UI) yang elegan dan fungsional. Proyek ini dikembangkan dengan fokus pada estetika minimalis, interaksi pengguna yang halus, dan performa aplikasi yang optimal, mendemonstrasikan keahlian dalam pengembangan *frontend* terkini.
 
-![Pratinjau Proyek](/public/images/chair-main.png)
-*(Catatan: Gambar pratinjau aplikasi)*
+![Pratinjau Proyek 1](/public/images/preview-github.png)
+![Pratinjau Proyek 2](/public/images/preview-github2.png)
+![Pratinjau Proyek 3](/public/images/preview-github3.png)
 
 ## 🚀 Ikhtisar Teknologi
 
@@ -16,17 +17,6 @@ Proyek ini dibangun menggunakan serangkaian teknologi modern untuk memastikan ko
 *   **[GSAP](https://gsap.com/)**: *GreenSock Animation Platform* digunakan untuk animasi berbasis *scroll* yang presisi dan berkinerja tinggi.
 *   **[Lucide React](https://lucide.dev/)**: Kumpulan ikon SVG yang ringan dan mudah disesuaikan.
 
-## ✨ Fitur Unggulan
-
-*   **Antarmuka Pengguna Imersif**: Halaman utama (Hero Section) yang menampilkan animasi bertahap dan efek visual yang menarik perhatian.
-*   **Manajemen State Global**: Implementasi fitur Keranjang Belanja (*Shopping Cart*) yang fungsional menggunakan **React Context API**, memungkinkan pengelolaan data secara *real-time* di seluruh aplikasi.
-*   **Desain Responsif Adaptif**: Tata letak yang menyesuaikan diri secara sempurna pada berbagai ukuran perangkat, dari ponsel hingga monitor desktop.
-*   **Katalog Interaktif**: Tampilan produk yang dinamis dengan efek *hover* dan transisi yang halus.
-*   **Tipografi Editorial**: Penggunaan kombinasi fon *DM Sans* dan *Playfair Display* untuk menciptakan nuansa desain yang profesional dan elegan.
-
-## 🛠️ Panduan Instalasi
-
-Berikut adalah langkah-langkah untuk menjalankan proyek ini di lingkungan lokal Anda:
 
 1.  **Salin Repositori (Clone)**
     ```bash
