@@ -6,7 +6,7 @@
 ![Pratinjau Proyek 2](/public/images/preview-github2.png)
 ![Pratinjau Proyek 3](/public/images/preview-github3.png)
 
-## 🚀 Ikhtisar Teknologi
+## 🚀 Framework yang dipakai
 
 Proyek ini dibangun menggunakan serangkaian teknologi modern untuk memastikan kode yang dapat dipelihara (*maintainable*), berskala besar (*scalable*), dan memiliki performa tinggi:
 
@@ -16,27 +16,6 @@ Proyek ini dibangun menggunakan serangkaian teknologi modern untuk memastikan ko
 *   **[Framer Motion](https://www.framer.com/motion/)**: Pustaka animasi deklaratif untuk menciptakan transisi elemen yang kompleks dan menarik.
 *   **[GSAP](https://gsap.com/)**: *GreenSock Animation Platform* digunakan untuk animasi berbasis *scroll* yang presisi dan berkinerja tinggi.
 *   **[Lucide React](https://lucide.dev/)**: Kumpulan ikon SVG yang ringan dan mudah disesuaikan.
-
-
-1.  **Salin Repositori (Clone)**
-    ```bash
-    git clone https://github.com/usernameanda/wahri-furniture.git
-    cd wahri-furniture
-    ```
-
-2.  **Instalasi Dependensi**
-    Pastikan Node.js sudah terinstal, lalu jalankan:
-    ```bash
-    npm install
-    ```
-
-3.  **Jalankan Server Pengembangan**
-    ```bash
-    npm run dev
-    ```
-
-4.  **Akses Aplikasi**
-    Buka peramban (browser) Anda dan kunjungi [http://localhost:3000](http://localhost:3000).
 
 ## 📂 Struktur Proyek
 
