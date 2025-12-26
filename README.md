@@ -1,5 +1,5 @@
 PREVIEW WEBSITE
-wahri-furniture.vercel.app
+[wahri-furniture.vercel.app](https://wahri-furniture.vercel.app/)
 
 ![Pratinjau Proyek 1](/public/images/preview-github.png)
 ![Pratinjau Proyek 2](/public/images/preview-github2.png)
